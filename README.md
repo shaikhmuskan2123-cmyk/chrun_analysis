@@ -34,9 +34,9 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 4.Machine Learning Algorithms Used
 
-. Logistic Regression
-. Random Forest Classifier
-. KMeans Clustering
+- Logistic Regression
+- Random Forest Classifier
+- KMeans Clustering
 
 5.Project Features
 -> Data Cleaning
@@ -78,4 +78,5 @@ CustomerChurnProject/
 
 7.Installation
 Install required libraries using:
+
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
